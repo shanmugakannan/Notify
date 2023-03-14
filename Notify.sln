@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Notify.Services.MessageAPI", "Message\Notify.Services.MessageAPI.csproj", "{F051C281-E825-4C71-89F0-51FFAC29A4AB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{0427343C-912E-43BF-B33E-A3F74A5E1E15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F051C281-E825-4C71-89F0-51FFAC29A4AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F051C281-E825-4C71-89F0-51FFAC29A4AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F051C281-E825-4C71-89F0-51FFAC29A4AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F051C281-E825-4C71-89F0-51FFAC29A4AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F051C281-E825-4C71-89F0-51FFAC29A4AB} = {0427343C-912E-43BF-B33E-A3F74A5E1E15}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20BB3D6C-14BF-464A-93B2-B29201762865}
+	EndGlobalSection
+EndGlobal

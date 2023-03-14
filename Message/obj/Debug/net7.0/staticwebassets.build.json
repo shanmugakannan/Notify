@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "W7Gyh55QDceEBfO+r1ybvW/pUVY6gsI6hQfJtZGbMkk=",
+  "Source": "Notify.Services.MessageAPI",
+  "BasePath": "_content/Notify.Services.MessageAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
